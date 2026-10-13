@@ -1,0 +1,2 @@
+# SC-PROGRESSOR-RELEASES
+Public update channel for SC-PROGRESSOR
